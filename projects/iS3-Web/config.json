@@ -1,0 +1,5 @@
+{
+	"server" : "https://demo.geo-solutions.it/geoserver",
+	"proxy" : "http://localhost",
+	"lang" : "EN"
+}
